@@ -1,0 +1,3026 @@
+﻿[
+    {
+        "ID": "582",
+        "District": "Adilabad"
+    },
+    {
+        "ID": "320",
+        "District": "Agar"
+    },
+    {
+        "ID": "622",
+        "District": "Agra"
+    },
+    {
+        "ID": "154",
+        "District": "Ahmedabad"
+    },
+    {
+        "ID": "770",
+        "District": "Ahmedabad Corporation"
+    },
+    {
+        "ID": "391",
+        "District": "Ahmednagar"
+    },
+    {
+        "ID": "425",
+        "District": "Aizawl East"
+    },
+    {
+        "ID": "426",
+        "District": "Aizawl West"
+    },
+    {
+        "ID": "507",
+        "District": "Ajmer"
+    },
+    {
+        "ID": "364",
+        "District": "Akola"
+    },
+    {
+        "ID": "301",
+        "District": "Alappuzha"
+    },
+    {
+        "ID": "623",
+        "District": "Aligarh"
+    },
+    {
+        "ID": "710",
+        "District": "Alipurduar District"
+    },
+    {
+        "ID": "357",
+        "District": "Alirajpur"
+    },
+    {
+        "ID": "704",
+        "District": "Almora"
+    },
+    {
+        "ID": "512",
+        "District": "Alwar"
+    },
+    {
+        "ID": "193",
+        "District": "Ambala"
+    },
+    {
+        "ID": "625",
+        "District": "Ambedkar Nagar"
+    },
+    {
+        "ID": "626",
+        "District": "Amethi"
+    },
+    {
+        "ID": "366",
+        "District": "Amravati"
+    },
+    {
+        "ID": "174",
+        "District": "Amreli"
+    },
+    {
+        "ID": "485",
+        "District": "Amritsar"
+    },
+    {
+        "ID": "627",
+        "District": "Amroha"
+    },
+    {
+        "ID": "179",
+        "District": "Anand"
+    },
+    {
+        "ID": "9:00 AM",
+        "District": "nantapur"
+    },
+    {
+        "ID": "224",
+        "District": "Anantnag"
+    },
+    {
+        "ID": "445",
+        "District": "Angul"
+    },
+    {
+        "ID": "22",
+        "District": "Anjaw"
+    },
+    {
+        "ID": "334",
+        "District": "Anuppur"
+    },
+    {
+        "ID": "779",
+        "District": "Aranthangi"
+    },
+    {
+        "ID": "74",
+        "District": "Araria"
+    },
+    {
+        "ID": "158",
+        "District": "Aravalli"
+    },
+    {
+        "ID": "555",
+        "District": "Ariyalur"
+    },
+    {
+        "ID": "78",
+        "District": "Arwal"
+    },
+    {
+        "ID": "354",
+        "District": "Ashoknagar"
+    },
+    {
+        "ID": "578",
+        "District": "Attur"
+    },
+    {
+        "ID": "628",
+        "District": "Auraiya"
+    },
+    {
+        "ID": "77",
+        "District": "Aurangabad"
+    },
+    {
+        "ID": "397",
+        "District": "Aurangabad"
+    },
+    {
+        "ID": "646",
+        "District": "Ayodhya"
+    },
+    {
+        "ID": "629",
+        "District": "Azamgarh"
+    },
+    {
+        "ID": "630",
+        "District": "Badaun"
+    },
+    {
+        "ID": "270",
+        "District": "Bagalkot"
+    },
+    {
+        "ID": "707",
+        "District": "Bageshwar"
+    },
+    {
+        "ID": "631",
+        "District": "Baghpat"
+    },
+    {
+        "ID": "632",
+        "District": "Bahraich"
+    },
+    {
+        "ID": "46",
+        "District": "Baksa"
+    },
+    {
+        "ID": "338",
+        "District": "Balaghat"
+    },
+    {
+        "ID": "448",
+        "District": "Balangir"
+    },
+    {
+        "ID": "633",
+        "District": "Balarampur"
+    },
+    {
+        "ID": "447",
+        "District": "Balasore"
+    },
+    {
+        "ID": "634",
+        "District": "Ballia"
+    },
+    {
+        "ID": "110",
+        "District": "Balod"
+    },
+    {
+        "ID": "111",
+        "District": "Baloda bazar"
+    },
+    {
+        "ID": "112",
+        "District": "Balrampur"
+    },
+    {
+        "ID": "159",
+        "District": "Banaskantha"
+    },
+    {
+        "ID": "635",
+        "District": "Banda"
+    },
+    {
+        "ID": "223",
+        "District": "Bandipore"
+    },
+    {
+        "ID": "276",
+        "District": "Bangalore Rural"
+    },
+    {
+        "ID": "265",
+        "District": "Bangalore Urban"
+    },
+    {
+        "ID": "83",
+        "District": "Banka"
+    },
+    {
+        "ID": "711",
+        "District": "Bankura"
+    },
+    {
+        "ID": "519",
+        "District": "Banswara"
+    },
+    {
+        "ID": "636",
+        "District": "Barabanki"
+    },
+    {
+        "ID": "225",
+        "District": "Baramulla"
+    },
+    {
+        "ID": "516",
+        "District": "Baran"
+    },
+    {
+        "ID": "637",
+        "District": "Bareilly"
+    },
+    {
+        "ID": "472",
+        "District": "Bargarh"
+    },
+    {
+        "ID": "528",
+        "District": "Barmer"
+    },
+    {
+        "ID": "483",
+        "District": "Barnala"
+    },
+    {
+        "ID": "47",
+        "District": "Barpeta"
+    },
+    {
+        "ID": "343",
+        "District": "Barwani"
+    },
+    {
+        "ID": "712",
+        "District": "Basirhat HD (North 24 Parganas)"
+    },
+    {
+        "ID": "113",
+        "District": "Bastar"
+    },
+    {
+        "ID": "638",
+        "District": "Basti"
+    },
+    {
+        "ID": "493",
+        "District": "Bathinda"
+    },
+    {
+        "ID": "294",
+        "District": "BBMP"
+    },
+    {
+        "ID": "384",
+        "District": "Beed"
+    },
+    {
+        "ID": "98",
+        "District": "Begusarai"
+    },
+    {
+        "ID": "264",
+        "District": "Belgaum"
+    },
+    {
+        "ID": "274",
+        "District": "Bellary"
+    },
+    {
+        "ID": "114",
+        "District": "Bemetara"
+    },
+    {
+        "ID": "362",
+        "District": "Betul"
+    },
+    {
+        "ID": "687",
+        "District": "Bhadohi"
+    },
+    {
+        "ID": "583",
+        "District": "Bhadradri Kothagudem"
+    },
+    {
+        "ID": "454",
+        "District": "Bhadrak"
+    },
+    {
+        "ID": "82",
+        "District": "Bhagalpur"
+    },
+    {
+        "ID": "370",
+        "District": "Bhandara"
+    },
+    {
+        "ID": "508",
+        "District": "Bharatpur"
+    },
+    {
+        "ID": "180",
+        "District": "Bharuch"
+    },
+    {
+        "ID": "175",
+        "District": "Bhavnagar"
+    },
+    {
+        "ID": "771",
+        "District": "Bhavnagar Corporation"
+    },
+    {
+        "ID": "523",
+        "District": "Bhilwara"
+    },
+    {
+        "ID": "351",
+        "District": "Bhind"
+    },
+    {
+        "ID": "200",
+        "District": "Bhiwani"
+    },
+    {
+        "ID": "99",
+        "District": "Bhojpur"
+    },
+    {
+        "ID": "312",
+        "District": "Bhopal"
+    },
+    {
+        "ID": "272",
+        "District": "Bidar"
+    },
+    {
+        "ID": "115",
+        "District": "Bijapur"
+    },
+    {
+        "ID": "639",
+        "District": "Bijnour"
+    },
+    {
+        "ID": "501",
+        "District": "Bikaner"
+    },
+    {
+        "ID": "116",
+        "District": "Bilaspur"
+    },
+    {
+        "ID": "219",
+        "District": "Bilaspur"
+    },
+    {
+        "ID": "713",
+        "District": "Birbhum"
+    },
+    {
+        "ID": "398",
+        "District": "Bishnupur"
+    },
+    {
+        "ID": "714",
+        "District": "Bishnupur HD (Bankura)"
+    },
+    {
+        "ID": "765",
+        "District": "Biswanath"
+    },
+    {
+        "ID": "242",
+        "District": "Bokaro"
+    },
+    {
+        "ID": "57",
+        "District": "Bongaigaon"
+    },
+    {
+        "ID": "176",
+        "District": "Botad"
+    },
+    {
+        "ID": "468",
+        "District": "Boudh"
+    },
+    {
+        "ID": "229",
+        "District": "Budgam"
+    },
+    {
+        "ID": "640",
+        "District": "Bulandshahr"
+    },
+    {
+        "ID": "367",
+        "District": "Buldhana"
+    },
+    {
+        "ID": "514",
+        "District": "Bundi"
+    },
+    {
+        "ID": "342",
+        "District": "Burhanpur"
+    },
+    {
+        "ID": "100",
+        "District": "Buxar"
+    },
+    {
+        "ID": "66",
+        "District": "Cachar"
+    },
+    {
+        "ID": "141",
+        "District": "Central Delhi"
+    },
+    {
+        "ID": "271",
+        "District": "Chamarajanagar"
+    },
+    {
+        "ID": "214",
+        "District": "Chamba"
+    },
+    {
+        "ID": "699",
+        "District": "Chamoli"
+    },
+    {
+        "ID": "708",
+        "District": "Champawat"
+    },
+    {
+        "ID": "429",
+        "District": "Champhai"
+    },
+    {
+        "ID": "641",
+        "District": "Chandauli"
+    },
+    {
+        "ID": "399",
+        "District": "Chandel"
+    },
+    {
+        "ID": "108",
+        "District": "Chandigarh"
+    },
+    {
+        "ID": "380",
+        "District": "Chandrapur"
+    },
+    {
+        "ID": "20",
+        "District": "Changlang"
+    },
+    {
+        "ID": "766",
+        "District": "Charaideo"
+    },
+    {
+        "ID": "201",
+        "District": "Charkhi Dadri"
+    },
+    {
+        "ID": "245",
+        "District": "Chatra"
+    },
+    {
+        "ID": "565",
+        "District": "Chengalpet"
+    },
+    {
+        "ID": "571",
+        "District": "Chennai"
+    },
+    {
+        "ID": "778",
+        "District": "Cheyyar"
+    },
+    {
+        "ID": "328",
+        "District": "Chhatarpur"
+    },
+    {
+        "ID": "337",
+        "District": "Chhindwara"
+    },
+    {
+        "ID": "181",
+        "District": "Chhotaudepur"
+    },
+    {
+        "ID": "273",
+        "District": "Chikamagalur"
+    },
+    {
+        "ID": "291",
+        "District": "Chikkaballapur"
+    },
+    {
+        "ID": "58",
+        "District": "Chirang"
+    },
+    {
+        "ID": "268",
+        "District": "Chitradurga"
+    },
+    {
+        "ID": "642",
+        "District": "Chitrakoot"
+    },
+    {
+        "ID": "10",
+        "District": "Chittoor"
+    },
+    {
+        "ID": "521",
+        "District": "Chittorgarh"
+    },
+    {
+        "ID": "400",
+        "District": "Churachandpur"
+    },
+    {
+        "ID": "530",
+        "District": "Churu"
+    },
+    {
+        "ID": "539",
+        "District": "Coimbatore"
+    },
+    {
+        "ID": "715",
+        "District": "Cooch Behar"
+    },
+    {
+        "ID": "783",
+        "District": "COOCHBEHAR"
+    },
+    {
+        "ID": "547",
+        "District": "Cuddalore"
+    },
+    {
+        "ID": "457",
+        "District": "Cuttack"
+    },
+    {
+        "ID": "137",
+        "District": "Dadra and Nagar Haveli"
+    },
+    {
+        "ID": "182",
+        "District": "Dahod"
+    },
+    {
+        "ID": "716",
+        "District": "Dakshin Dinajpur"
+    },
+    {
+        "ID": "269",
+        "District": "Dakshina Kannada"
+    },
+    {
+        "ID": "138",
+        "District": "Daman"
+    },
+    {
+        "ID": "327",
+        "District": "Damoh"
+    },
+    {
+        "ID": "163",
+        "District": "Dang"
+    },
+    {
+        "ID": "117",
+        "District": "Dantewada"
+    },
+    {
+        "ID": "94",
+        "District": "Darbhanga"
+    },
+    {
+        "ID": "717",
+        "District": "Darjeeling"
+    },
+    {
+        "ID": "48",
+        "District": "Darrang"
+    },
+    {
+        "ID": "350",
+        "District": "Datia"
+    },
+    {
+        "ID": "511",
+        "District": "Dausa"
+    },
+    {
+        "ID": "275",
+        "District": "Davanagere"
+    },
+    {
+        "ID": "697",
+        "District": "Dehradun"
+    },
+    {
+        "ID": "473",
+        "District": "Deogarh"
+    },
+    {
+        "ID": "253",
+        "District": "Deoghar"
+    },
+    {
+        "ID": "643",
+        "District": "Deoria"
+    },
+    {
+        "ID": "168",
+        "District": "Devbhumi Dwaraka"
+    },
+    {
+        "ID": "324",
+        "District": "Dewas"
+    },
+    {
+        "ID": "614",
+        "District": "Dhalai"
+    },
+    {
+        "ID": "118",
+        "District": "Dhamtari"
+    },
+    {
+        "ID": "257",
+        "District": "Dhanbad"
+    },
+    {
+        "ID": "341",
+        "District": "Dhar"
+    },
+    {
+        "ID": "566",
+        "District": "Dharmapuri"
+    },
+    {
+        "ID": "278",
+        "District": "Dharwad"
+    },
+    {
+        "ID": "62",
+        "District": "Dhemaji"
+    },
+    {
+        "ID": "458",
+        "District": "Dhenkanal"
+    },
+    {
+        "ID": "524",
+        "District": "Dholpur"
+    },
+    {
+        "ID": "59",
+        "District": "Dhubri"
+    },
+    {
+        "ID": "388",
+        "District": "Dhule"
+    },
+    {
+        "ID": "718",
+        "District": "Diamond Harbor HD (S 24 Parganas)"
+    },
+    {
+        "ID": "25",
+        "District": "Dibang Valley"
+    },
+    {
+        "ID": "43",
+        "District": "Dibrugarh"
+    },
+    {
+        "ID": "67",
+        "District": "Dima Hasao"
+    },
+    {
+        "ID": "434",
+        "District": "Dimapur"
+    },
+    {
+        "ID": "556",
+        "District": "Dindigul"
+    },
+    {
+        "ID": "336",
+        "District": "Dindori"
+    },
+    {
+        "ID": "139",
+        "District": "Diu"
+    },
+    {
+        "ID": "232",
+        "District": "Doda"
+    },
+    {
+        "ID": "258",
+        "District": "Dumka"
+    },
+    {
+        "ID": "520",
+        "District": "Dungarpur"
+    },
+    {
+        "ID": "119",
+        "District": "Durg"
+    },
+    {
+        "ID": "719",
+        "District": "East Bardhaman"
+    },
+    {
+        "ID": "105",
+        "District": "East Champaran"
+    },
+    {
+        "ID": "145",
+        "District": "East Delhi"
+    },
+    {
+        "ID": "424",
+        "District": "East Garo Hills"
+    },
+    {
+        "ID": "11",
+        "District": "East Godavari"
+    },
+    {
+        "ID": "418",
+        "District": "East Jaintia Hills"
+    },
+    {
+        "ID": "23",
+        "District": "East Kameng"
+    },
+    {
+        "ID": "414",
+        "District": "East Khasi Hills"
+    },
+    {
+        "ID": "42",
+        "District": "East Siang"
+    },
+    {
+        "ID": "535",
+        "District": "East Sikkim"
+    },
+    {
+        "ID": "247",
+        "District": "East Singhbhum"
+    },
+    {
+        "ID": "307",
+        "District": "Ernakulam"
+    },
+    {
+        "ID": "563",
+        "District": "Erode"
+    },
+    {
+        "ID": "644",
+        "District": "Etah"
+    },
+    {
+        "ID": "645",
+        "District": "Etawah"
+    },
+    {
+        "ID": "199",
+        "District": "Faridabad"
+    },
+    {
+        "ID": "499",
+        "District": "Faridkot"
+    },
+    {
+        "ID": "647",
+        "District": "Farrukhabad"
+    },
+    {
+        "ID": "196",
+        "District": "Fatehabad"
+    },
+    {
+        "ID": "484",
+        "District": "Fatehgarh Sahib"
+    },
+    {
+        "ID": "648",
+        "District": "Fatehpur"
+    },
+    {
+        "ID": "487",
+        "District": "Fazilka"
+    },
+    {
+        "ID": "480",
+        "District": "Ferozpur"
+    },
+    {
+        "ID": "649",
+        "District": "Firozabad"
+    },
+    {
+        "ID": "280",
+        "District": "Gadag"
+    },
+    {
+        "ID": "379",
+        "District": "Gadchiroli"
+    },
+    {
+        "ID": "467",
+        "District": "Gajapati"
+    },
+    {
+        "ID": "228",
+        "District": "Ganderbal"
+    },
+    {
+        "ID": "153",
+        "District": "Gandhinagar"
+    },
+    {
+        "ID": "772",
+        "District": "Gandhinagar Corporation"
+    },
+    {
+        "ID": "449",
+        "District": "Ganjam"
+    },
+    {
+        "ID": "243",
+        "District": "Garhwa"
+    },
+    {
+        "ID": "120",
+        "District": "Gariaband"
+    },
+    {
+        "ID": "136",
+        "District": "Gaurela Pendra Marwahi"
+    },
+    {
+        "ID": "650",
+        "District": "Gautam Buddha Nagar"
+    },
+    {
+        "ID": "79",
+        "District": "Gaya"
+    },
+    {
+        "ID": "651",
+        "District": "Ghaziabad"
+    },
+    {
+        "ID": "652",
+        "District": "Ghazipur"
+    },
+    {
+        "ID": "177",
+        "District": "Gir Somnath"
+    },
+    {
+        "ID": "256",
+        "District": "Giridih"
+    },
+    {
+        "ID": "60",
+        "District": "Goalpara"
+    },
+    {
+        "ID": "262",
+        "District": "Godda"
+    },
+    {
+        "ID": "53",
+        "District": "Golaghat"
+    },
+    {
+        "ID": "615",
+        "District": "Gomati"
+    },
+    {
+        "ID": "653",
+        "District": "Gonda"
+    },
+    {
+        "ID": "378",
+        "District": "Gondia"
+    },
+    {
+        "ID": "104",
+        "District": "Gopalganj"
+    },
+    {
+        "ID": "654",
+        "District": "Gorakhpur"
+    },
+    {
+        "ID": "267",
+        "District": "Gulbarga"
+    },
+    {
+        "ID": "251",
+        "District": "Gumla"
+    },
+    {
+        "ID": "348",
+        "District": "Guna"
+    },
+    {
+        "ID": "5 G",
+        "District": "untur"
+    },
+    {
+        "ID": "489",
+        "District": "Gurdaspur"
+    },
+    {
+        "ID": "188",
+        "District": "Gurgaon"
+    },
+    {
+        "ID": "313",
+        "District": "Gwalior"
+    },
+    {
+        "ID": "68",
+        "District": "Hailakandi"
+    },
+    {
+        "ID": "655",
+        "District": "Hamirpur"
+    },
+    {
+        "ID": "217",
+        "District": "Hamirpur"
+    },
+    {
+        "ID": "517",
+        "District": "Hanumangarh"
+    },
+    {
+        "ID": "656",
+        "District": "Hapur"
+    },
+    {
+        "ID": "361",
+        "District": "Harda"
+    },
+    {
+        "ID": "657",
+        "District": "Hardoi"
+    },
+    {
+        "ID": "702",
+        "District": "Haridwar"
+    },
+    {
+        "ID": "289",
+        "District": "Hassan"
+    },
+    {
+        "ID": "658",
+        "District": "Hathras"
+    },
+    {
+        "ID": "279",
+        "District": "Haveri"
+    },
+    {
+        "ID": "255",
+        "District": "Hazaribagh"
+    },
+    {
+        "ID": "386",
+        "District": "Hingoli"
+    },
+    {
+        "ID": "191",
+        "District": "Hisar"
+    },
+    {
+        "ID": "764",
+        "District": "Hojai"
+    },
+    {
+        "ID": "720",
+        "District": "Hoogly"
+    },
+    {
+        "ID": "360",
+        "District": "Hoshangabad"
+    },
+    {
+        "ID": "481",
+        "District": "Hoshiarpur"
+    },
+    {
+        "ID": "721",
+        "District": "Howrah"
+    },
+    {
+        "ID": "581",
+        "District": "Hyderabad"
+    },
+    {
+        "ID": "306",
+        "District": "Idukki"
+    },
+    {
+        "ID": "401",
+        "District": "Imphal East"
+    },
+    {
+        "ID": "402",
+        "District": "Imphal West"
+    },
+    {
+        "ID": "314",
+        "District": "Indore"
+    },
+    {
+        "ID": "17",
+        "District": "Itanagar Capital Complex"
+    },
+    {
+        "ID": "315",
+        "District": "Jabalpur"
+    },
+    {
+        "ID": "459",
+        "District": "Jagatsinghpur"
+    },
+    {
+        "ID": "584",
+        "District": "Jagtial"
+    },
+    {
+        "ID": "505",
+        "District": "Jaipur I"
+    },
+    {
+        "ID": "506",
+        "District": "Jaipur II"
+    },
+    {
+        "ID": "527",
+        "District": "Jaisalmer"
+    },
+    {
+        "ID": "460",
+        "District": "Jajpur"
+    },
+    {
+        "ID": "492",
+        "District": "Jalandhar"
+    },
+    {
+        "ID": "659",
+        "District": "Jalaun"
+    },
+    {
+        "ID": "390",
+        "District": "Jalgaon"
+    },
+    {
+        "ID": "396",
+        "District": "Jalna"
+    },
+    {
+        "ID": "533",
+        "District": "Jalore"
+    },
+    {
+        "ID": "722",
+        "District": "Jalpaiguri"
+    },
+    {
+        "ID": "230",
+        "District": "Jammu"
+    },
+    {
+        "ID": "169",
+        "District": "Jamnagar"
+    },
+    {
+        "ID": "773",
+        "District": "Jamnagar Corporation"
+    },
+    {
+        "ID": "259",
+        "District": "Jamtara"
+    },
+    {
+        "ID": "107",
+        "District": "Jamui"
+    },
+    {
+        "ID": "585",
+        "District": "Jangaon"
+    },
+    {
+        "ID": "121",
+        "District": "Janjgir-Champa"
+    },
+    {
+        "ID": "122",
+        "District": "Jashpur"
+    },
+    {
+        "ID": "660",
+        "District": "Jaunpur"
+    },
+    {
+        "ID": "586",
+        "District": "Jayashankar Bhupalpally"
+    },
+    {
+        "ID": "91",
+        "District": "Jehanabad"
+    },
+    {
+        "ID": "340",
+        "District": "Jhabua"
+    },
+    {
+        "ID": "189",
+        "District": "Jhajjar"
+    },
+    {
+        "ID": "515",
+        "District": "Jhalawar"
+    },
+    {
+        "ID": "661",
+        "District": "Jhansi"
+    },
+    {
+        "ID": "723",
+        "District": "Jhargram"
+    },
+    {
+        "ID": "474",
+        "District": "Jharsuguda"
+    },
+    {
+        "ID": "510",
+        "District": "Jhunjhunu"
+    },
+    {
+        "ID": "204",
+        "District": "Jind"
+    },
+    {
+        "ID": "410",
+        "District": "Jiribam"
+    },
+    {
+        "ID": "502",
+        "District": "Jodhpur"
+    },
+    {
+        "ID": "587",
+        "District": "Jogulamba Gadwal"
+    },
+    {
+        "ID": "54",
+        "District": "Jorhat"
+    },
+    {
+        "ID": "178",
+        "District": "Junagadh"
+    },
+    {
+        "ID": "774",
+        "District": "Junagadh Corporation"
+    },
+    {
+        "ID": "80",
+        "District": "Kaimur"
+    },
+    {
+        "ID": "190",
+        "District": "Kaithal"
+    },
+    {
+        "ID": "413",
+        "District": "Kakching"
+    },
+    {
+        "ID": "464",
+        "District": "Kalahandi"
+    },
+    {
+        "ID": "724",
+        "District": "Kalimpong"
+    },
+    {
+        "ID": "552",
+        "District": "Kallakurichi"
+    },
+    {
+        "ID": "588",
+        "District": "Kamareddy"
+    },
+    {
+        "ID": "409",
+        "District": "Kamjong"
+    },
+    {
+        "ID": "24",
+        "District": "Kamle"
+    },
+    {
+        "ID": "49",
+        "District": "Kamrup Metropolitan"
+    },
+    {
+        "ID": "50",
+        "District": "Kamrup Rural"
+    },
+    {
+        "ID": "557",
+        "District": "Kanchipuram"
+    },
+    {
+        "ID": "450",
+        "District": "Kandhamal"
+    },
+    {
+        "ID": "408",
+        "District": "Kangpokpi"
+    },
+    {
+        "ID": "213",
+        "District": "Kangra"
+    },
+    {
+        "ID": "123",
+        "District": "Kanker"
+    },
+    {
+        "ID": "662",
+        "District": "Kannauj"
+    },
+    {
+        "ID": "297",
+        "District": "Kannur"
+    },
+    {
+        "ID": "663",
+        "District": "Kanpur Dehat"
+    },
+    {
+        "ID": "664",
+        "District": "Kanpur Nagar"
+    },
+    {
+        "ID": "544",
+        "District": "Kanyakumari"
+    },
+    {
+        "ID": "479",
+        "District": "Kapurthala"
+    },
+    {
+        "ID": "476",
+        "District": "Karaikal"
+    },
+    {
+        "ID": "525",
+        "District": "Karauli"
+    },
+    {
+        "ID": "51",
+        "District": "Karbi-Anglong"
+    },
+    {
+        "ID": "309",
+        "District": "Kargil"
+    },
+    {
+        "ID": "69",
+        "District": "Karimganj"
+    },
+    {
+        "ID": "589",
+        "District": "Karimnagar"
+    },
+    {
+        "ID": "203",
+        "District": "Karnal"
+    },
+    {
+        "ID": "559",
+        "District": "Karur"
+    },
+    {
+        "ID": "295",
+        "District": "Kasaragod"
+    },
+    {
+        "ID": "665",
+        "District": "Kasganj"
+    },
+    {
+        "ID": "234",
+        "District": "Kathua"
+    },
+    {
+        "ID": "75",
+        "District": "Katihar"
+    },
+    {
+        "ID": "353",
+        "District": "Katni"
+    },
+    {
+        "ID": "666",
+        "District": "Kaushambi"
+    },
+    {
+        "ID": "135",
+        "District": "Kawardha"
+    },
+    {
+        "ID": "461",
+        "District": "Kendrapara"
+    },
+    {
+        "ID": "455",
+        "District": "Kendujhar"
+    },
+    {
+        "ID": "101",
+        "District": "Khagaria"
+    },
+    {
+        "ID": "590",
+        "District": "Khammam"
+    },
+    {
+        "ID": "339",
+        "District": "Khandwa"
+    },
+    {
+        "ID": "344",
+        "District": "Khargone"
+    },
+    {
+        "ID": "156",
+        "District": "Kheda"
+    },
+    {
+        "ID": "616",
+        "District": "Khowai"
+    },
+    {
+        "ID": "252",
+        "District": "Khunti"
+    },
+    {
+        "ID": "446",
+        "District": "Khurda"
+    },
+    {
+        "ID": "216",
+        "District": "Kinnaur"
+    },
+    {
+        "ID": "444",
+        "District": "Kiphire"
+    },
+    {
+        "ID": "76",
+        "District": "Kishanganj"
+    },
+    {
+        "ID": "231",
+        "District": "Kishtwar"
+    },
+    {
+        "ID": "283",
+        "District": "Kodagu"
+    },
+    {
+        "ID": "241",
+        "District": "Koderma"
+    },
+    {
+        "ID": "441",
+        "District": "Kohima"
+    },
+    {
+        "ID": "61",
+        "District": "Kokrajhar"
+    },
+    {
+        "ID": "277",
+        "District": "Kolar"
+    },
+    {
+        "ID": "428",
+        "District": "Kolasib"
+    },
+    {
+        "ID": "371",
+        "District": "Kolhapur"
+    },
+    {
+        "ID": "725",
+        "District": "Kolkata"
+    },
+    {
+        "ID": "298",
+        "District": "Kollam"
+    },
+    {
+        "ID": "124",
+        "District": "Kondagaon"
+    },
+    {
+        "ID": "282",
+        "District": "Koppal"
+    },
+    {
+        "ID": "451",
+        "District": "Koraput"
+    },
+    {
+        "ID": "125",
+        "District": "Korba"
+    },
+    {
+        "ID": "126",
+        "District": "Koriya"
+    },
+    {
+        "ID": "503",
+        "District": "Kota"
+    },
+    {
+        "ID": "304",
+        "District": "Kottayam"
+    },
+    {
+        "ID": "780",
+        "District": "Kovilpatti"
+    },
+    {
+        "ID": "305",
+        "District": "Kozhikode"
+    },
+    {
+        "ID": "27",
+        "District": "Kra Daadi"
+    },
+    {
+        "ID": "4 K",
+        "District": "rishna"
+    },
+    {
+        "ID": "562",
+        "District": "Krishnagiri"
+    },
+    {
+        "ID": "221",
+        "District": "Kulgam"
+    },
+    {
+        "ID": "211",
+        "District": "Kullu"
+    },
+    {
+        "ID": "591",
+        "District": "Kumuram Bheem"
+    },
+    {
+        "ID": "226",
+        "District": "Kupwara"
+    },
+    {
+        "ID": "7 K",
+        "District": "urnool"
+    },
+    {
+        "ID": "186",
+        "District": "Kurukshetra"
+    },
+    {
+        "ID": "21",
+        "District": "Kurung Kumey"
+    },
+    {
+        "ID": "667",
+        "District": "Kushinagar"
+    },
+    {
+        "ID": "170",
+        "District": "Kutch"
+    },
+    {
+        "ID": "210",
+        "District": "Lahaul Spiti"
+    },
+    {
+        "ID": "63",
+        "District": "Lakhimpur"
+    },
+    {
+        "ID": "668",
+        "District": "Lakhimpur Kheri"
+    },
+    {
+        "ID": "84",
+        "District": "Lakhisarai"
+    },
+    {
+        "ID": "311",
+        "District": "Lakshadweep"
+    },
+    {
+        "ID": "669",
+        "District": "Lalitpur"
+    },
+    {
+        "ID": "244",
+        "District": "Latehar"
+    },
+    {
+        "ID": "383",
+        "District": "Latur"
+    },
+    {
+        "ID": "432",
+        "District": "Lawngtlai"
+    },
+    {
+        "ID": "310",
+        "District": "Leh"
+    },
+    {
+        "ID": "33",
+        "District": "Lepa Rada"
+    },
+    {
+        "ID": "250",
+        "District": "Lohardaga"
+    },
+    {
+        "ID": "29",
+        "District": "Lohit"
+    },
+    {
+        "ID": "40",
+        "District": "Longding"
+    },
+    {
+        "ID": "438",
+        "District": "Longleng"
+    },
+    {
+        "ID": "31",
+        "District": "Lower Dibang Valley"
+    },
+    {
+        "ID": "18",
+        "District": "Lower Siang"
+    },
+    {
+        "ID": "32",
+        "District": "Lower Subansiri"
+    },
+    {
+        "ID": "670",
+        "District": "Lucknow"
+    },
+    {
+        "ID": "488",
+        "District": "Ludhiana"
+    },
+    {
+        "ID": "431",
+        "District": "Lunglei"
+    },
+    {
+        "ID": "70",
+        "District": "Madhepura"
+    },
+    {
+        "ID": "95",
+        "District": "Madhubani"
+    },
+    {
+        "ID": "540",
+        "District": "Madurai"
+    },
+    {
+        "ID": "592",
+        "District": "Mahabubabad"
+    },
+    {
+        "ID": "593",
+        "District": "Mahabubnagar"
+    },
+    {
+        "ID": "671",
+        "District": "Maharajganj"
+    },
+    {
+        "ID": "127",
+        "District": "Mahasamund"
+    },
+    {
+        "ID": "477",
+        "District": "Mahe"
+    },
+    {
+        "ID": "206",
+        "District": "Mahendragarh"
+    },
+    {
+        "ID": "183",
+        "District": "Mahisagar"
+    },
+    {
+        "ID": "672",
+        "District": "Mahoba"
+    },
+    {
+        "ID": "673",
+        "District": "Mainpuri"
+    },
+    {
+        "ID": "767",
+        "District": "Majuli"
+    },
+    {
+        "ID": "302",
+        "District": "Malappuram"
+    },
+    {
+        "ID": "726",
+        "District": "Malda"
+    },
+    {
+        "ID": "469",
+        "District": "Malkangiri"
+    },
+    {
+        "ID": "427",
+        "District": "Mamit"
+    },
+    {
+        "ID": "594",
+        "District": "Mancherial"
+    },
+    {
+        "ID": "215",
+        "District": "Mandi"
+    },
+    {
+        "ID": "335",
+        "District": "Mandla"
+    },
+    {
+        "ID": "319",
+        "District": "Mandsaur"
+    },
+    {
+        "ID": "290",
+        "District": "Mandya"
+    },
+    {
+        "ID": "482",
+        "District": "Mansa"
+    },
+    {
+        "ID": "674",
+        "District": "Mathura"
+    },
+    {
+        "ID": "675",
+        "District": "Mau"
+    },
+    {
+        "ID": "456",
+        "District": "Mayurbhanj"
+    },
+    {
+        "ID": "595",
+        "District": "Medak"
+    },
+    {
+        "ID": "596",
+        "District": "Medchal"
+    },
+    {
+        "ID": "676",
+        "District": "Meerut"
+    },
+    {
+        "ID": "160",
+        "District": "Mehsana"
+    },
+    {
+        "ID": "677",
+        "District": "Mirzapur"
+    },
+    {
+        "ID": "491",
+        "District": "Moga"
+    },
+    {
+        "ID": "437",
+        "District": "Mokokchung"
+    },
+    {
+        "ID": "439",
+        "District": "Mon"
+    },
+    {
+        "ID": "678",
+        "District": "Moradabad"
+    },
+    {
+        "ID": "171",
+        "District": "Morbi"
+    },
+    {
+        "ID": "347",
+        "District": "Morena"
+    },
+    {
+        "ID": "55",
+        "District": "Morigaon"
+    },
+    {
+        "ID": "612",
+        "District": "Mulugu"
+    },
+    {
+        "ID": "395",
+        "District": "Mumbai"
+    },
+    {
+        "ID": "128",
+        "District": "Mungeli"
+    },
+    {
+        "ID": "85",
+        "District": "Munger"
+    },
+    {
+        "ID": "727",
+        "District": "Murshidabad"
+    },
+    {
+        "ID": "679",
+        "District": "Muzaffarnagar"
+    },
+    {
+        "ID": "86",
+        "District": "Muzaffarpur"
+    },
+    {
+        "ID": "266",
+        "District": "Mysore"
+    },
+    {
+        "ID": "470",
+        "District": "Nabarangpur"
+    },
+    {
+        "ID": "728",
+        "District": "Nadia"
+    },
+    {
+        "ID": "56",
+        "District": "Nagaon"
+    },
+    {
+        "ID": "576",
+        "District": "Nagapattinam"
+    },
+    {
+        "ID": "597",
+        "District": "Nagarkurnool"
+    },
+    {
+        "ID": "532",
+        "District": "Nagaur"
+    },
+    {
+        "ID": "365",
+        "District": "Nagpur"
+    },
+    {
+        "ID": "709",
+        "District": "Nainital"
+    },
+    {
+        "ID": "90",
+        "District": "Nalanda"
+    },
+    {
+        "ID": "52",
+        "District": "Nalbari"
+    },
+    {
+        "ID": "598",
+        "District": "Nalgonda"
+    },
+    {
+        "ID": "558",
+        "District": "Namakkal"
+    },
+    {
+        "ID": "36",
+        "District": "Namsai"
+    },
+    {
+        "ID": "382",
+        "District": "Nanded"
+    },
+    {
+        "ID": "729",
+        "District": "Nandigram HD (East Medinipore)"
+    },
+    {
+        "ID": "387",
+        "District": "Nandurbar"
+    },
+    {
+        "ID": "613",
+        "District": "Narayanpet"
+    },
+    {
+        "ID": "129",
+        "District": "Narayanpur"
+    },
+    {
+        "ID": "184",
+        "District": "Narmada"
+    },
+    {
+        "ID": "352",
+        "District": "Narsinghpur"
+    },
+    {
+        "ID": "389",
+        "District": "Nashik"
+    },
+    {
+        "ID": "164",
+        "District": "Navsari"
+    },
+    {
+        "ID": "92",
+        "District": "Nawada"
+    },
+    {
+        "ID": "462",
+        "District": "Nayagarh"
+    },
+    {
+        "ID": "323",
+        "District": "Neemuch"
+    },
+    {
+        "ID": "140",
+        "District": "New Delhi"
+    },
+    {
+        "ID": "3 N",
+        "District": "icobar"
+    },
+    {
+        "ID": "577",
+        "District": "Nilgiris"
+    },
+    {
+        "ID": "599",
+        "District": "Nirmal"
+    },
+    {
+        "ID": "600",
+        "District": "Nizamabad"
+    },
+    {
+        "ID": "412",
+        "District": "Noney"
+    },
+    {
+        "ID": "730",
+        "District": "North 24 Parganas"
+    },
+    {
+        "ID": "1 N",
+        "District": "orth and Middle Andaman"
+    },
+    {
+        "ID": "146",
+        "District": "North Delhi"
+    },
+    {
+        "ID": "147",
+        "District": "North East Delhi"
+    },
+    {
+        "ID": "423",
+        "District": "North Garo Hills"
+    },
+    {
+        "ID": "151",
+        "District": "North Goa"
+    },
+    {
+        "ID": "537",
+        "District": "North Sikkim"
+    },
+    {
+        "ID": "617",
+        "District": "North Tripura"
+    },
+    {
+        "ID": "143",
+        "District": "North West Delhi"
+    },
+    {
+        "ID": "465",
+        "District": "Nuapada"
+    },
+    {
+        "ID": "205",
+        "District": "Nuh"
+    },
+    {
+        "ID": "381",
+        "District": "Osmanabad"
+    },
+    {
+        "ID": "19",
+        "District": "Pakke Kessang"
+    },
+    {
+        "ID": "261",
+        "District": "Pakur"
+    },
+    {
+        "ID": "308",
+        "District": "Palakkad"
+    },
+    {
+        "ID": "246",
+        "District": "Palamu"
+    },
+    {
+        "ID": "564",
+        "District": "Palani"
+    },
+    {
+        "ID": "394",
+        "District": "Palghar"
+    },
+    {
+        "ID": "529",
+        "District": "Pali"
+    },
+    {
+        "ID": "207",
+        "District": "Palwal"
+    },
+    {
+        "ID": "187",
+        "District": "Panchkula"
+    },
+    {
+        "ID": "185",
+        "District": "Panchmahal"
+    },
+    {
+        "ID": "195",
+        "District": "Panipat"
+    },
+    {
+        "ID": "326",
+        "District": "Panna"
+    },
+    {
+        "ID": "39",
+        "District": "Papum Pare"
+    },
+    {
+        "ID": "573",
+        "District": "Paramakudi"
+    },
+    {
+        "ID": "385",
+        "District": "Parbhani"
+    },
+    {
+        "ID": "731",
+        "District": "Paschim Medinipore"
+    },
+    {
+        "ID": "161",
+        "District": "Patan"
+    },
+    {
+        "ID": "300",
+        "District": "Pathanamthitta"
+    },
+    {
+        "ID": "486",
+        "District": "Pathankot"
+    },
+    {
+        "ID": "494",
+        "District": "Patiala"
+    },
+    {
+        "ID": "97",
+        "District": "Patna"
+    },
+    {
+        "ID": "698",
+        "District": "Pauri Garhwal"
+    },
+    {
+        "ID": "601",
+        "District": "Peddapalli"
+    },
+    {
+        "ID": "570",
+        "District": "Perambalur"
+    },
+    {
+        "ID": "435",
+        "District": "Peren"
+    },
+    {
+        "ID": "443",
+        "District": "Phek"
+    },
+    {
+        "ID": "411",
+        "District": "Pherzawl"
+    },
+    {
+        "ID": "680",
+        "District": "Pilibhit"
+    },
+    {
+        "ID": "706",
+        "District": "Pithoragarh"
+    },
+    {
+        "ID": "575",
+        "District": "Poonamallee"
+    },
+    {
+        "ID": "238",
+        "District": "Poonch"
+    },
+    {
+        "ID": "172",
+        "District": "Porbandar"
+    },
+    {
+        "ID": "12",
+        "District": "Prakasam"
+    },
+    {
+        "ID": "682",
+        "District": "Pratapgarh"
+    },
+    {
+        "ID": "522",
+        "District": "Pratapgarh"
+    },
+    {
+        "ID": "624",
+        "District": "Prayagraj"
+    },
+    {
+        "ID": "475",
+        "District": "Puducherry"
+    },
+    {
+        "ID": "546",
+        "District": "Pudukkottai"
+    },
+    {
+        "ID": "227",
+        "District": "Pulwama"
+    },
+    {
+        "ID": "363",
+        "District": "Pune"
+    },
+    {
+        "ID": "732",
+        "District": "Purba Medinipore"
+    },
+    {
+        "ID": "463",
+        "District": "Puri"
+    },
+    {
+        "ID": "73",
+        "District": "Purnia"
+    },
+    {
+        "ID": "733",
+        "District": "Purulia"
+    },
+    {
+        "ID": "681",
+        "District": "Raebareli"
+    },
+    {
+        "ID": "284",
+        "District": "Raichur"
+    },
+    {
+        "ID": "393",
+        "District": "Raigad"
+    },
+    {
+        "ID": "130",
+        "District": "Raigarh"
+    },
+    {
+        "ID": "109",
+        "District": "Raipur"
+    },
+    {
+        "ID": "359",
+        "District": "Raisen"
+    },
+    {
+        "ID": "602",
+        "District": "Rajanna Sircilla"
+    },
+    {
+        "ID": "358",
+        "District": "Rajgarh"
+    },
+    {
+        "ID": "173",
+        "District": "Rajkot"
+    },
+    {
+        "ID": "775",
+        "District": "Rajkot Corporation"
+    },
+    {
+        "ID": "131",
+        "District": "Rajnandgaon"
+    },
+    {
+        "ID": "237",
+        "District": "Rajouri"
+    },
+    {
+        "ID": "518",
+        "District": "Rajsamand"
+    },
+    {
+        "ID": "292",
+        "District": "Ramanagara"
+    },
+    {
+        "ID": "567",
+        "District": "Ramanathapuram"
+    },
+    {
+        "ID": "235",
+        "District": "Ramban"
+    },
+    {
+        "ID": "254",
+        "District": "Ramgarh"
+    },
+    {
+        "ID": "683",
+        "District": "Rampur"
+    },
+    {
+        "ID": "734",
+        "District": "Rampurhat HD (Birbhum)"
+    },
+    {
+        "ID": "240",
+        "District": "Ranchi"
+    },
+    {
+        "ID": "603",
+        "District": "Rangareddy"
+    },
+    {
+        "ID": "781",
+        "District": "Ranipet"
+    },
+    {
+        "ID": "322",
+        "District": "Ratlam"
+    },
+    {
+        "ID": "372",
+        "District": "Ratnagiri"
+    },
+    {
+        "ID": "471",
+        "District": "Rayagada"
+    },
+    {
+        "ID": "239",
+        "District": "Reasi"
+    },
+    {
+        "ID": "316",
+        "District": "Rewa"
+    },
+    {
+        "ID": "202",
+        "District": "Rewari"
+    },
+    {
+        "ID": "417",
+        "District": "Ri-Bhoi"
+    },
+    {
+        "ID": "192",
+        "District": "Rohtak"
+    },
+    {
+        "ID": "81",
+        "District": "Rohtas"
+    },
+    {
+        "ID": "700",
+        "District": "Rudraprayag"
+    },
+    {
+        "ID": "497",
+        "District": "Rup Nagar"
+    },
+    {
+        "ID": "162",
+        "District": "Sabarkantha"
+    },
+    {
+        "ID": "317",
+        "District": "Sagar"
+    },
+    {
+        "ID": "684",
+        "District": "Saharanpur"
+    },
+    {
+        "ID": "71",
+        "District": "Saharsa"
+    },
+    {
+        "ID": "260",
+        "District": "Sahebganj"
+    },
+    {
+        "ID": "545",
+        "District": "Salem"
+    },
+    {
+        "ID": "96",
+        "District": "Samastipur"
+    },
+    {
+        "ID": "236",
+        "District": "Samba"
+    },
+    {
+        "ID": "452",
+        "District": "Sambalpur"
+    },
+    {
+        "ID": "685",
+        "District": "Sambhal"
+    },
+    {
+        "ID": "604",
+        "District": "Sangareddy"
+    },
+    {
+        "ID": "373",
+        "District": "Sangli"
+    },
+    {
+        "ID": "498",
+        "District": "Sangrur"
+    },
+    {
+        "ID": "686",
+        "District": "Sant Kabir Nagar"
+    },
+    {
+        "ID": "102",
+        "District": "Saran"
+    },
+    {
+        "ID": "496",
+        "District": "SAS Nagar"
+    },
+    {
+        "ID": "376",
+        "District": "Satara"
+    },
+    {
+        "ID": "333",
+        "District": "Satna"
+    },
+    {
+        "ID": "534",
+        "District": "Sawai Madhopur"
+    },
+    {
+        "ID": "500",
+        "District": "SBS Nagar"
+    },
+    {
+        "ID": "356",
+        "District": "Sehore"
+    },
+    {
+        "ID": "403",
+        "District": "Senapati"
+    },
+    {
+        "ID": "349",
+        "District": "Seoni"
+    },
+    {
+        "ID": "618",
+        "District": "Sepahijala"
+    },
+    {
+        "ID": "248",
+        "District": "Seraikela Kharsawan"
+    },
+    {
+        "ID": "430",
+        "District": "Serchhip"
+    },
+    {
+        "ID": "148",
+        "District": "Shahdara"
+    },
+    {
+        "ID": "332",
+        "District": "Shahdol"
+    },
+    {
+        "ID": "688",
+        "District": "Shahjahanpur"
+    },
+    {
+        "ID": "321",
+        "District": "Shajapur"
+    },
+    {
+        "ID": "689",
+        "District": "Shamli"
+    },
+    {
+        "ID": "93",
+        "District": "Sheikhpura"
+    },
+    {
+        "ID": "87",
+        "District": "Sheohar"
+    },
+    {
+        "ID": "346",
+        "District": "Sheopur"
+    },
+    {
+        "ID": "35",
+        "District": "Shi Yomi"
+    },
+    {
+        "ID": "208",
+        "District": "Shimla"
+    },
+    {
+        "ID": "287",
+        "District": "Shimoga"
+    },
+    {
+        "ID": "345",
+        "District": "Shivpuri"
+    },
+    {
+        "ID": "222",
+        "District": "Shopian"
+    },
+    {
+        "ID": "690",
+        "District": "Shravasti"
+    },
+    {
+        "ID": "433",
+        "District": "Siaha"
+    },
+    {
+        "ID": "37",
+        "District": "Siang"
+    },
+    {
+        "ID": "691",
+        "District": "Siddharthnagar"
+    },
+    {
+        "ID": "605",
+        "District": "Siddipet"
+    },
+    {
+        "ID": "331",
+        "District": "Sidhi"
+    },
+    {
+        "ID": "513",
+        "District": "Sikar"
+    },
+    {
+        "ID": "249",
+        "District": "Simdega"
+    },
+    {
+        "ID": "374",
+        "District": "Sindhudurg"
+    },
+    {
+        "ID": "330",
+        "District": "Singrauli"
+    },
+    {
+        "ID": "212",
+        "District": "Sirmaur"
+    },
+    {
+        "ID": "531",
+        "District": "Sirohi"
+    },
+    {
+        "ID": "194",
+        "District": "Sirsa"
+    },
+    {
+        "ID": "88",
+        "District": "Sitamarhi"
+    },
+    {
+        "ID": "692",
+        "District": "Sitapur"
+    },
+    {
+        "ID": "561",
+        "District": "Sivaganga"
+    },
+    {
+        "ID": "580",
+        "District": "Sivakasi"
+    },
+    {
+        "ID": "44",
+        "District": "Sivasagar"
+    },
+    {
+        "ID": "103",
+        "District": "Siwan"
+    },
+    {
+        "ID": "209",
+        "District": "Solan"
+    },
+    {
+        "ID": "375",
+        "District": "Solapur"
+    },
+    {
+        "ID": "693",
+        "District": "Sonbhadra"
+    },
+    {
+        "ID": "198",
+        "District": "Sonipat"
+    },
+    {
+        "ID": "64",
+        "District": "Sonitpur"
+    },
+    {
+        "ID": "735",
+        "District": "South 24 Parganas"
+    },
+    {
+        "ID": "2 S",
+        "District": "outh Andaman"
+    },
+    {
+        "ID": "149",
+        "District": "South Delhi"
+    },
+    {
+        "ID": "144",
+        "District": "South East Delhi"
+    },
+    {
+        "ID": "421",
+        "District": "South Garo Hills"
+    },
+    {
+        "ID": "152",
+        "District": "South Goa"
+    },
+    {
+        "ID": "768",
+        "District": "South Salmara Mankachar"
+    },
+    {
+        "ID": "538",
+        "District": "South Sikkim"
+    },
+    {
+        "ID": "619",
+        "District": "South Tripura"
+    },
+    {
+        "ID": "150",
+        "District": "South West Delhi"
+    },
+    {
+        "ID": "422",
+        "District": "South West Garo Hills"
+    },
+    {
+        "ID": "415",
+        "District": "South West Khasi Hills"
+    },
+    {
+        "ID": "509",
+        "District": "Sri Ganganagar"
+    },
+    {
+        "ID": "490",
+        "District": "Sri Muktsar Sahib"
+    },
+    {
+        "ID": "13",
+        "District": "Sri Potti Sriramulu Nellore"
+    },
+    {
+        "ID": "14",
+        "District": "Srikakulam"
+    },
+    {
+        "ID": "220",
+        "District": "Srinagar"
+    },
+    {
+        "ID": "466",
+        "District": "Subarnapur"
+    },
+    {
+        "ID": "132",
+        "District": "Sukma"
+    },
+    {
+        "ID": "694",
+        "District": "Sultanpur"
+    },
+    {
+        "ID": "453",
+        "District": "Sundargarh"
+    },
+    {
+        "ID": "72",
+        "District": "Supaul"
+    },
+    {
+        "ID": "133",
+        "District": "Surajpur"
+    },
+    {
+        "ID": "165",
+        "District": "Surat"
+    },
+    {
+        "ID": "776",
+        "District": "Surat Corporation"
+    },
+    {
+        "ID": "157",
+        "District": "Surendranagar"
+    },
+    {
+        "ID": "134",
+        "District": "Surguja"
+    },
+    {
+        "ID": "606",
+        "District": "Suryapet"
+    },
+    {
+        "ID": "404",
+        "District": "Tamenglong"
+    },
+    {
+        "ID": "166",
+        "District": "Tapi"
+    },
+    {
+        "ID": "495",
+        "District": "Tarn Taran"
+    },
+    {
+        "ID": "30",
+        "District": "Tawang"
+    },
+    {
+        "ID": "701",
+        "District": "Tehri Garhwal"
+    },
+    {
+        "ID": "407",
+        "District": "Tengnoupal"
+    },
+    {
+        "ID": "551",
+        "District": "Tenkasi"
+    },
+    {
+        "ID": "392",
+        "District": "Thane"
+    },
+    {
+        "ID": "541",
+        "District": "Thanjavur"
+    },
+    {
+        "ID": "569",
+        "District": "Theni"
+    },
+    {
+        "ID": "296",
+        "District": "Thiruvananthapuram"
+    },
+    {
+        "ID": "554",
+        "District": "Thoothukudi (Tuticorin)"
+    },
+    {
+        "ID": "405",
+        "District": "Thoubal"
+    },
+    {
+        "ID": "303",
+        "District": "Thrissur"
+    },
+    {
+        "ID": "325",
+        "District": "Tikamgarh"
+    },
+    {
+        "ID": "45",
+        "District": "Tinsukia"
+    },
+    {
+        "ID": "26",
+        "District": "Tirap"
+    },
+    {
+        "ID": "560",
+        "District": "Tiruchirappalli"
+    },
+    {
+        "ID": "548",
+        "District": "Tirunelveli"
+    },
+    {
+        "ID": "550",
+        "District": "Tirupattur"
+    },
+    {
+        "ID": "568",
+        "District": "Tiruppur"
+    },
+    {
+        "ID": "572",
+        "District": "Tiruvallur"
+    },
+    {
+        "ID": "553",
+        "District": "Tiruvannamalai"
+    },
+    {
+        "ID": "574",
+        "District": "Tiruvarur"
+    },
+    {
+        "ID": "526",
+        "District": "Tonk"
+    },
+    {
+        "ID": "440",
+        "District": "Tuensang"
+    },
+    {
+        "ID": "288",
+        "District": "Tumkur"
+    },
+    {
+        "ID": "504",
+        "District": "Udaipur"
+    },
+    {
+        "ID": "65",
+        "District": "Udalguri"
+    },
+    {
+        "ID": "705",
+        "District": "Udham Singh Nagar"
+    },
+    {
+        "ID": "233",
+        "District": "Udhampur"
+    },
+    {
+        "ID": "286",
+        "District": "Udupi"
+    },
+    {
+        "ID": "318",
+        "District": "Ujjain"
+    },
+    {
+        "ID": "406",
+        "District": "Ukhrul"
+    },
+    {
+        "ID": "329",
+        "District": "Umaria"
+    },
+    {
+        "ID": "218",
+        "District": "Una"
+    },
+    {
+        "ID": "620",
+        "District": "Unakoti"
+    },
+    {
+        "ID": "695",
+        "District": "Unnao"
+    },
+    {
+        "ID": "34",
+        "District": "Upper Siang"
+    },
+    {
+        "ID": "41",
+        "District": "Upper Subansiri"
+    },
+    {
+        "ID": "736",
+        "District": "Uttar Dinajpur"
+    },
+    {
+        "ID": "281",
+        "District": "Uttar Kannada"
+    },
+    {
+        "ID": "703",
+        "District": "Uttarkashi"
+    },
+    {
+        "ID": "155",
+        "District": "Vadodara"
+    },
+    {
+        "ID": "777",
+        "District": "Vadodara Corporation"
+    },
+    {
+        "ID": "89",
+        "District": "Vaishali"
+    },
+    {
+        "ID": "167",
+        "District": "Valsad"
+    },
+    {
+        "ID": "696",
+        "District": "Varanasi"
+    },
+    {
+        "ID": "543",
+        "District": "Vellore"
+    },
+    {
+        "ID": "355",
+        "District": "Vidisha"
+    },
+    {
+        "ID": "293",
+        "District": "Vijayapura"
+    },
+    {
+        "ID": "607",
+        "District": "Vikarabad"
+    },
+    {
+        "ID": "542",
+        "District": "Viluppuram"
+    },
+    {
+        "ID": "549",
+        "District": "Virudhunagar"
+    },
+    {
+        "ID": "8 V",
+        "District": "isakhapatnam"
+    },
+    {
+        "ID": "15",
+        "District": "Vizianagaram"
+    },
+    {
+        "ID": "608",
+        "District": "Wanaparthy"
+    },
+    {
+        "ID": "609",
+        "District": "Warangal(Rural)"
+    },
+    {
+        "ID": "610",
+        "District": "Warangal(Urban)"
+    },
+    {
+        "ID": "377",
+        "District": "Wardha"
+    },
+    {
+        "ID": "369",
+        "District": "Washim"
+    },
+    {
+        "ID": "299",
+        "District": "Wayanad"
+    },
+    {
+        "ID": "737",
+        "District": "West Bardhaman"
+    },
+    {
+        "ID": "106",
+        "District": "West Champaran"
+    },
+    {
+        "ID": "142",
+        "District": "West Delhi"
+    },
+    {
+        "ID": "420",
+        "District": "West Garo Hills"
+    },
+    {
+        "ID": "16",
+        "District": "West Godavari"
+    },
+    {
+        "ID": "416",
+        "District": "West Jaintia Hills"
+    },
+    {
+        "ID": "28",
+        "District": "West Kameng"
+    },
+    {
+        "ID": "769",
+        "District": "West Karbi Anglong"
+    },
+    {
+        "ID": "419",
+        "District": "West Khasi Hills"
+    },
+    {
+        "ID": "38",
+        "District": "West Siang"
+    },
+    {
+        "ID": "536",
+        "District": "West Sikkim"
+    },
+    {
+        "ID": "263",
+        "District": "West Singhbhum"
+    },
+    {
+        "ID": "621",
+        "District": "West Tripura"
+    },
+    {
+        "ID": "436",
+        "District": "Wokha"
+    },
+    {
+        "ID": "611",
+        "District": "Yadadri Bhuvanagiri"
+    },
+    {
+        "ID": "285",
+        "District": "Yadgir"
+    },
+    {
+        "ID": "197",
+        "District": "Yamunanagar"
+    },
+    {
+        "ID": "478",
+        "District": "Yanam"
+    },
+    {
+        "ID": "368",
+        "District": "Yavatmal"
+    },
+    {
+        "ID": "6 Y",
+        "District": "SR District, Kadapa (Cuddapah)"
+    },
+    {
+        "ID": "442",
+        "District": "Zunheboto"
+    },
+    {
+        "ID": " ",
+        "District": ""
+    }
+]
